@@ -3,7 +3,8 @@
 ## Installation/Dependencies
 ```sh
 
-  python3 ./em... install latest
+  # note: python2
+  python2 ./em... install latest
   
   ./em... activate latest
   
@@ -19,5 +20,6 @@
 
 ## Localhost
 ```sh
+  # note: python3
   python3 -m http.server 
 ```
